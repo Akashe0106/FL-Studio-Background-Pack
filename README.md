@@ -38,4 +38,4 @@ Bu repo, **FL Studio** kullanıcıları için hazırladığım küçük ama eğl
 
 ## Hakkında
 
-Tamamen açık kaynak kod olmakla birlikte ücretsiz kullanıma/değiştirilmeye açıktır. - ***Akashe tarafından geliştirildi - '106***
+Tamamen açık kaynak kod olmakla birlikte ücretsiz kullanıma açıktır. - ***Akashe tarafından geliştirildi - '106***
